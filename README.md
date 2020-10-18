@@ -1,1 +1,1 @@
-# COVID_CT-Segmentation
+# COVID-CT-Segmentation
