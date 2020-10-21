@@ -46,12 +46,14 @@ with other methods.
 
 
 
-![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/COVID.jpg)
-
-Fig. 2. Sample images from the COVID-19 CT segmentation dataset. The
+![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/COVID.jpg?raw=true "Title")
+<p align="center">
+  <img src="Fig. 2" width="350" alt="Fig. 2. Sample images from the COVID-19 CT segmentation dataset. The
 first row shows two COVID-19 images. The red boundary contours in the
 second row denote regions of COVID-19 Ground-Glass pathology and are not
-a part of the original image data.The third row shows Ground-Glass masks
+a part of the original image data.The third row shows Ground-Glass masks">
+</p>
+
 
 # Visualization Results:
 ![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/maskB%26TV.jpg)
