@@ -39,9 +39,12 @@ with other methods.
 
 
 
-![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/normal%26COVID.jpg)
+![alt tag](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/normal%26COVID.jpg? )
+<p align="center">
+  <img src="Fig. 1. The difference between normal and COVID-19 images" width="350" alt="Fig. 1. The difference between normal and COVID-19 images">
+</p>
 
-Fig. 1. The difference between normal and COVID-19 images
+
 
 ![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/COVID.jpg)
 
