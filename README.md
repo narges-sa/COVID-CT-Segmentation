@@ -33,9 +33,9 @@ To evaluate the effect of radically different training/testing set composition a
 In Split 1, data from a relatively large number of 46
 training/validation-set patients and a small number of only 3
 testing-set patients were used. 729 CT image slices formed the
-training and validation sets, and 200 images the testing set. the number of slices in this split can be seen in [main_TV_Unet_Split1.py](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/main_TV_Unet_Split1.py) code.
+training and validation sets, and 200 images the testing set. The number of slices in this split can be seen in [main_TV_Unet_Split1.py](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/main_TV_Unet_Split1.py) code.
 
-InSplit 2, a more balanced distribution of patient numbers was
+In Split 2, a more balanced distribution of patient numbers was
 used with 654 CT image slices from 35 patients included in the
 training and validation sets, and 275 images from 14 patients
 formed the testing set.
