@@ -48,14 +48,14 @@ FCN8s, and Semi-Inf-Net+FCN8s, training and testing sets are downloaded from [he
 
 For this comparison just run [main_TV_Unet_inf.py](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/main_TV_Unet_inf.py) code.
 
-![alt tag](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/normal%26COVID.jpg? )
+![alt tag](https://github.com/narges-sa/COVID-CT-Segmentation/blob/main/results/normal%26COVID.jpg? )
  <p align="left">
   <img src="Fig. 1. The difference between normal and COVID-19 images" width="350" alt="Fig. 1. The difference between normal and COVID-19 images">
 </p>
 
 
 
-![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/COVID.jpg?raw=true "Title")
+![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/main/results/COVID.jpg?raw=true "Title")
 <p align="left">
   <img src="Fig. 2" width="350" alt="Fig. 2. Sample images from the COVID-19 CT segmentation dataset. The
 first row shows two COVID-19 images. The red boundary contours in the
@@ -64,7 +64,7 @@ a part of the original image data.The third row shows Ground-Glass masks">
 </p>
 
 # Visualization Results:
-![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/results/maskB%26TV.jpg)
+![alt text](https://github.com/narges-sa/COVID-CT-Segmentation/blob/main/results/maskB%26TV.jpg)
 <p align="left">
   <img src="Fig. 3" width="350" alt="Fig. 3. Predicted segmentation masks by U-Net trained from scratch and the proposed TV-UNet for a typical sample images from the testing set.">
   </p>
