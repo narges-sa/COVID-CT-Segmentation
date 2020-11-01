@@ -33,7 +33,7 @@ To evaluate the effect of radically different training/testing set composition a
 In Split 1, data from a relatively large number of 46
 training/validation-set patients and a small number of only 3
 testing-set patients were used. 729 CT image slices formed the
-training and validation sets, and 200 images the testing set. The number of slices in this split can be seen in [main_TV_Unet_Split1.py](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/main_TV_Unet_Split1.py) code.
+training and validation sets, and 200 images the testing set. The number of slices in this split can be seen in [main_TV_Unet_Split1.py](https://github.com/narges-sa/COVID-CT-Segmentation/blob/main/main_TV_Unet_Split1.py) code.
 
 In Split 2, a more balanced distribution of patient numbers was
 used with 654 CT image slices from 35 patients included in the
@@ -46,7 +46,7 @@ To compare TV-UNet model with the Inf-Net and other promising image
 segmentation models trained on COVID-SemiSeg dataset, including UNet++, Semi-Inf-Net, DeepLab-v3,
 FCN8s, and Semi-Inf-Net+FCN8s, training and testing sets are downloaded from [here](https://github.com/DengPingFan/Inf-Net). 
 
-For this comparison just run [main_TV_Unet_inf.py](https://github.com/narges-sa/COVID-CT-Segmentation/blob/readme-changes/main_TV_Unet_inf.py) code.
+For this comparison just run [main_TV_Unet_inf.py](https://github.com/narges-sa/COVID-CT-Segmentation/blob/main/main_TV_Unet_inf.py) code.
 
 ![alt tag](https://github.com/narges-sa/COVID-CT-Segmentation/blob/main/results/normal%26COVID.jpg? )
  <p align="left">
